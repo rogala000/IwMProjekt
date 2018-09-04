@@ -1,21 +1,15 @@
 {
     "questions": [
-      { "id": 1, "title": "Jaka ocene chce autor?", "answer1": "2.0", "answer2": "3.0", "answer3": "4.0", "answer4": "5.0", "correct": "3" },
-      { "id": 2, "title": "abc?", "answer1": "1", "answer2": "2", "answer3": "3", "answer4": "4", "correct":"2" },
-      { "id": 3, "title": "def?", "answer1": "5", "answer2": "6", "answer3": "7", "answer4": "8","correct":"1" },
-      { "id": 4, "title": "dsf?", "answer1": "5", "answer2": "6", "answer3": "7", "answer4": "8","correct":"1" },
-      { "id": 5, "title": "fgh?", "answer1": "5", "answer2": "6", "answer3": "7", "answer4": "8","correct":"1" },
-      { "id": 6, "title": "rytu?", "answer1": "5", "answer2": "6", "answer3": "7", "answer4": "8","correct":"1" },
-      { "id": 7, "title": "ter?", "answer1": "5", "answer2": "6", "answer3": "7", "answer4": "8","correct":"1" },
-      { "id": 8, "title": "dsf?", "answer1": "5", "answer2": "6", "answer3": "7", "answer4": "8","correct":"1" },
-      { "id": 9, "title": "hngf?", "answer1": "5", "answer2": "6", "answer3": "7", "answer4": "8","correct":"1" },
-      { "id": 10, "title": "rys?", "answer1": "5", "answer2": "6", "answer3": "7", "answer4": "8","correct":"1" }
-
-    ],
+      { "id": 1, "title": "Na jaka ocene liczy autor aplikacji?", "answer1": "2.0", "answer2": "3.0", "answer3": "4.0", "answer4": "5.0", "correct": "3" },
+      { "id": 2, "title": "Jaka jest najlepsza uczelnia na swiecie?", "answer1": "UJ", "answer2": "AGH", "answer3": "AWF", "answer4": "KUL", "correct":"1" },
+      { "id": 3, "title": "W ktorym roku byla Bitwa Pod Grunwaldem?", "answer1": "1525", "answer2": "1410", "answer3": "1128", "answer4": "1415","correct":"1" },
+      { "id": 4, "title": "Ile jest praw dynamiki Newtona?", "answer1": "1", "answer2": "2", "answer3": "3", "answer4": "4","correct":"2" },
+      { "id": 5, "title": "Co to jest Jawa?", "answer1": "Nieobiektowy jezyk programowania", "answer2": "Motor", "answer3": "Kraj", "answer4": "Herbata","correct":"1" },
+      { "id": 6, "title": "W ktorym roku zalozono AGH?", "answer1": "1918", "answer2": "2000", "answer3": "1234", "answer4": "1919","correct":"3" },
+      { "id": 7, "title": "W ktorym roku zalozono WIMiR?", "answer1": "1968", "answer2": "1946", "answer3": "1988", "answer4": "1952","correct":"3" },
+      { "id": 8, "title": "Jak potocznie nazywa sie budynek D1 w AGH?", "answer1": "Wafelek", "answer2": "Czekoladka", "answer3": "Batonik", "answer4": "Rzeznia","correct":"1" },
+      { "id": 9, "title": "Jak nazywa sie ten przedmiot?", "answer1": "Informatyka w Mechanice", "answer2": "Informatyka", "answer3": "Programowanie w Mechatronice", "answer4": "Informatyka w Mechatronice","correct":"3" },
+      { "id": 10, "title": "Jaki jest najlepszy czas na zaliczenie sesji?", "answer1": "Terminy zerowe", "answer2": "Pierwsze terminy", "answer3": "Drugie terminy", "answer4": "Wrzesien","correct":"3" }
+    ]
 	
-	
-	
-	"score": [
-	{"user": "author", "score": "10"}
-	]
   }
